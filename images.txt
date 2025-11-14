@@ -1,2 +1,1 @@
 vulhub/coldfusion:11u3
-vulhub/coldfusion:8.0.1
